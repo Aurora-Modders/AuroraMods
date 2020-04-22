@@ -47,9 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Mods\AuroraMod\AuroraMod-1.7.3.0.zip" />
+    <None Include="Mods\AuroraMod\AuroraMod-1.8.0.2.zip" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Aurora\aurora_versions.txt" />
+    <Content Include="Mods\AuroraMod\updates.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
