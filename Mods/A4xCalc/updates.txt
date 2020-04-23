@@ -1,0 +1,1 @@
+﻿0.1.2=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/A4xCalc/A4xCalc-0.1.2.zip
