@@ -47,7 +47,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Aurora\Aurora-1.0.0.zip" />
     <None Include="Aurora\Aurora-1.8.0.zip" />
+    <None Include="Aurora\Flags.zip" />
+    <None Include="Aurora\Medals.zip" />
+    <None Include="Aurora\Races.zip" />
+    <None Include="Aurora\ShipIcons.zip" />
+    <None Include="Aurora\StationIcons.zip" />
     <None Include="Mods\A4xCalc\A4xCalc-0.1.2.zip" />
     <None Include="Mods\AuroraElectrons\aurora-electrons-0.1.0.zip" />
     <None Include="Mods\AuroraMod\AuroraMod-1.7.3.0.zip" />
