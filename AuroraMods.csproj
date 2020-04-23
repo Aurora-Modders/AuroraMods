@@ -47,12 +47,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Aurora\Aurora-1.8.0.zip" />
     <None Include="Mods\AuroraElectrons\aurora-electrons-0.1.0.zip" />
     <None Include="Mods\AuroraMod\AuroraMod-1.7.3.0.zip" />
     <None Include="Mods\AuroraMod\AuroraMod-1.8.0.2.zip" />
     <None Include="Mods\AuroraMod\AuroraMod-1.8.0.4.zip" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Aurora\aurora_files.txt" />
     <Content Include="Aurora\aurora_versions.txt" />
     <Content Include="Mods\AuroraElectrons\updates.txt" />
     <Content Include="Mods\AuroraMod\updates.txt" />
