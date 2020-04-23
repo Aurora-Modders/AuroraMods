@@ -58,6 +58,7 @@
     <Content Include="Aurora\aurora_versions.txt" />
     <Content Include="Mods\AuroraElectrons\updates.txt" />
     <Content Include="Mods\AuroraMod\updates.txt" />
+    <Content Include="Mods\mods.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
