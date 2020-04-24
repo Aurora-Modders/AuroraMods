@@ -56,10 +56,7 @@
     <None Include="Aurora\StationIcons.zip" />
     <None Include="Mods\A4xCalc\A4xCalc-0.1.2.zip" />
     <None Include="Mods\AuroraElectrons\aurora-electrons-0.1.0.zip" />
-    <None Include="Mods\AuroraMod\AuroraMod-1.7.3.0.zip" />
-    <None Include="Mods\AuroraMod\AuroraMod-1.8.0.2.zip" />
-    <None Include="Mods\AuroraMod\AuroraMod-1.8.0.4.zip" />
-    <None Include="Mods\AuroraMod\AuroraMod-1.8.0.5.zip" />
+    <None Include="Mods\AuroraMod\AuroraMod-1.8.0-5.zip" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Aurora\aurora_files.txt" />
