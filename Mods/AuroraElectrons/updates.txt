@@ -1,1 +1,2 @@
 ﻿0.1.0=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraElectrons/aurora-electrons-0.1.0.zip
+0.2.4=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraElectrons/aurora-electrons-0.2.4.zip
