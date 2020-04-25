@@ -62,6 +62,8 @@
   <ItemGroup>
     <Content Include="Aurora\aurora_files.txt" />
     <Content Include="Aurora\aurora_versions.txt" />
+    <Content Include="aurora_files.txt" />
+    <Content Include="aurora_versions.txt" />
     <Content Include="Mods\A4xCalc\updates.txt" />
     <Content Include="Mods\AuroraElectrons\updates.txt" />
     <Content Include="Mods\AuroraMod\updates.txt" />
