@@ -54,6 +54,7 @@
     <None Include="Aurora\Races.zip" />
     <None Include="Aurora\ShipIcons.zip" />
     <None Include="Aurora\StationIcons.zip" />
+    <None Include="mods.json" />
     <None Include="Mods\A4xCalc\A4xCalc-0.1.2.zip" />
     <None Include="Mods\AuroraElectrons\aurora-electrons-0.1.0.zip" />
     <None Include="Mods\AuroraMod\AuroraMod-1.8.0-5.zip" />
