@@ -2,3 +2,4 @@
 0.2.4=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraElectrons/aurora-electrons-0.2.4.zip
 0.2.6=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraElectrons/aurora-electrons-0.2.6.zip
 0.2.7=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraElectrons/aurora-electrons-0.2.7.zip
+0.3.1=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraElectrons/aurora-electrons-0.3.1.zip
