@@ -51,13 +51,21 @@
     <None Include="Aurora\Aurora-1.8.0.zip" />
     <None Include="Aurora\Flags.zip" />
     <None Include="Aurora\Medals.zip" />
+    <None Include="Aurora\Music.zip" />
     <None Include="Aurora\Races.zip" />
     <None Include="Aurora\ShipIcons.zip" />
     <None Include="Aurora\StationIcons.zip" />
     <None Include="mods.json" />
     <None Include="Mods\A4xCalc\A4xCalc-0.1.2.zip" />
     <None Include="Mods\AuroraElectrons\aurora-electrons-0.1.0.zip" />
+    <None Include="Mods\AuroraElectrons\aurora-electrons-0.2.4.zip" />
+    <None Include="Mods\AuroraElectrons\aurora-electrons-0.2.6.zip" />
+    <None Include="Mods\AuroraElectrons\aurora-electrons-0.2.7.zip" />
+    <None Include="Mods\AuroraElectrons\aurora-electrons-0.3.1.zip" />
     <None Include="Mods\AuroraMod\AuroraMod-1.8.0-5.zip" />
+    <None Include="Mods\AuroraMod\AuroraMod-1.8.0-6.zip" />
+    <None Include="Mods\AuroraMod\AuroraMod-1.8.0-7.zip" />
+    <None Include="Mods\AuroraMod\AuroraMod-1.8.0-8.zip" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Aurora\aurora_files.txt" />

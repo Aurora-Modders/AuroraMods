@@ -1,6 +1,7 @@
 ﻿Version=1.8.0
 Flags=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Aurora/Flags.zip
 Medals=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Aurora/Medals.zip
+Music=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Aurora/Music.zip
 Races=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Aurora/Races.zip
 ShipIcons=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Aurora/ShipIcons.zip
 StationIcons=https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Aurora/StationIcons.zip
