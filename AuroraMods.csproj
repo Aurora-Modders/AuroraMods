@@ -49,6 +49,8 @@
     <None Include="App.config" />
     <None Include="Aurora\Aurora-1.0.0.zip" />
     <None Include="Aurora\Aurora-1.8.0.zip" />
+    <None Include="Aurora\Aurora-1.9.0.zip" />
+    <None Include="Aurora\Aurora-1.9.2.zip" />
     <None Include="Aurora\Flags.zip" />
     <None Include="Aurora\Medals.zip" />
     <None Include="Aurora\Music.zip" />
@@ -68,10 +70,6 @@
     <None Include="Mods\AuroraMod\AuroraMod-1.8.0-8.zip" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Aurora\aurora_files.txt" />
-    <Content Include="Aurora\aurora_versions.txt" />
-    <Content Include="aurora_files.txt" />
-    <Content Include="aurora_versions.txt" />
     <Content Include="Mods\A4xCalc\updates.txt" />
     <Content Include="Mods\AuroraElectrons\updates.txt" />
     <Content Include="Mods\AuroraMod\updates.txt" />
