@@ -1,3 +1,9 @@
+# New json format
+
+- Both the mod.ini in the mod's zipped release and the updates.txt are now gone. In their place is a mod.json. No more need to keep 2 separate files updated and no more need to include extra files in the mod's zipped release.
+
+- Launch commands are now provided on the mod level rather than the mod-version level, so no more versioned exe's: "aurora-electrons-0.4.6.exe" -> "aurora-electrons.exe"
+
 # Purpose
 
 This repository is an alternative hosting solution for developers of mods and content for Aurora. If you've got stuff to share with other Aurora players and aren't sure where to put it, this might be the place.
